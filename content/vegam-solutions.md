@@ -1,13 +1,9 @@
 # Vegam Solutions
-
-*This is the editable source of the article. Keep it in plain Markdown so that anyone — not just whoever is comfortable with HTML — can edit it. The HTML prototype in `/docs` is a visualization layer only; when changes here are agreed, they get hand-translated into the HTML prototype, and eventually into Wikipedia's own MediaWiki markup at submission time.*
-
 ---
 
 ## Status
 - **Draft version:** 4.0
 - **Last updated:** [edit this date when you change the file]
-- **Open TODO count:** 10+ items (see end of file)
 - **Submission status:** Not yet submitted. Target route: Wikipedia [Articles for Creation](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_creation).
 
 ---
