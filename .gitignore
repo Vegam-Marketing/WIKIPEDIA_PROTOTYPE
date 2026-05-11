@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node / build artifacts (in case anyone adds tooling later)
+node_modules/
+dist/
+build/
+.cache/
+
+# Local working files
+*.local
+*.draft
+*.tmp
+
+# Don't accidentally commit private materials
+private/
+*.private.md
